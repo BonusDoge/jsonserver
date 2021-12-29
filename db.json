@@ -2,27 +2,35 @@
 	"tasks": [
 		{
 			"id": 1,
-			"title": "Eat"
+			"title": "Проснуться"
 		},
 		{
 			"id": 2,
-			"title": "Drink"
+			"title": "Пойти помыться"
 		},
 		{
 			"id": 3,
-			"title": "Sleep"
+			"title": "Покушать"
 		},
 		{
 			"id": 4,
-			"title": "Sleep"
+			"title": "Помыть посуду"
 		},
 		{
 			"id": 5,
-			"title": "Sleep"
+			"title": "Приготовить еду"
 		},
 		{
 			"id": 6,
-			"title": "And sleep"
+			"title": "Сесть за компьютер"
+		},
+		{
+			"id": 6,
+			"title": "Поужинать"
+		},
+		{
+			"id": 6,
+			"title": "Лечь спать"
 		}
 	]
 }
